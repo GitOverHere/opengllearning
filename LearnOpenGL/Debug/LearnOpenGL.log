@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\binny\source\repos\learnopengl\learnopengl\main.cpp(64): error C2082: redefinition of formal parameter 'id'
+c:\users\binny\source\repos\learnopengl\learnopengl\main.cpp(65): error C2039: 'setSize': is not a member of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\binny\source\repos\learnopengl\learnopengl\main.cpp(66): error C2039: 'setPosition': is not a member of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\binny\source\repos\learnopengl\learnopengl\main.cpp(67): error C2039: 'draw': is not a member of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\binny\source\repos\learnopengl\learnopengl\main.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
